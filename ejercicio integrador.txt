@@ -1,0 +1,10 @@
+1 | 0 | 0 | 0 | 0 | 1
+0 | 1 | 0 | 0 | 1 | 0
+0 | 0 | 1 | 1 | 0 | 0
+0 | 0 | 1 | 1 | 0 | 0
+0 | 1 | 0 | 0 | 1 | 0
+1 | 0 | 0 | 0 | 0 | 1
+
+
+Realizar un algoritmo que cree y muestre una matriz cuadrada como la que muestro.
+Luego aislar y comparar la diagonal principal con la secundaria y determinar si son identicas
